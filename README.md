@@ -21,7 +21,7 @@ Using the VirtualBox application, I created two virtual machines:
 
 The Domain Controller in my HomeLab was the Windows Server, and the client was a computer (virtual machine) with Windows 10.
 
-![VBox screen](screens/vb.png)
+![VBox screen](screens/vb.PNG)
 
 I utilized the topology provided by Josh Madakor:
 
@@ -37,11 +37,11 @@ During the implementation of this project, I learned:
 - Remote installation of software on computers in the network.
 - Configuration of roaming profiles.
 - Management of user accounts and groups.
-![ad](screens/active_directory.png)
+![ad](screens/active_directory.PNG)
 - Utilization of Group Policy for environment management.
-![group_policy](screens/group_policy.png)
+![group_policy](screens/group_policy.PNG)
 - Configuration of DHCP and NAT services.
-![dhcp](screens/dhcp.png)
+![dhcp](screens/dhcp.PNG)
 
 ## Additional Information
 
